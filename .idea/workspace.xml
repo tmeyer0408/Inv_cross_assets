@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4da00f6b-7e65-4b98-8ebc-7e732cf092b5" name="Changes" comment="files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/my_packages/core_strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/my_packages/core_strategy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/my_packages/metrics_numba.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/my_packages/metrics_numba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/my_packages/portfolio.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/my_packages/portfolio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/my_packages/strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/my_packages/strategy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/my_packages/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/my_packages/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/my_packages/visualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/my_packages/visualization.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mateomolinaro1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mateomolinaro1/Investment_Solutions_X_Assets.git&quot;,
+    &quot;accountId&quot;: &quot;36aa67a3-9703-404a-8e2a-79e97ac3eabf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2tiW9UD21Li1OU9hJOFL6iA8iNe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Debug",
+    "Python.main10_shortlist_ETFs_all_funds_CSMOM.executor": "Run",
+    "Python.main11_main7_plus_strat_facto.executor": "Run",
+    "Python.main12_main7_freq_rebal.executor": "Run",
+    "Python.main13_main12_plus_tc.executor": "Run",
+    "Python.main14_satellite_BUY_AND_HOLD.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.main3.executor": "Run",
+    "Python.main4_shortlist.executor": "Run",
+    "Python.main5_shortlist_with_funds.executor": "Run",
+    "Python.main6_all_ETFs_with_funds.executor": "Run",
+    "Python.main6_shortlist_ETFs_all_funds (1).executor": "Run",
+    "Python.main7.executor": "Run",
+    "Python.main7_shortlist_ETFs_all_funds_BUY_and_HOLD.executor": "Run",
+    "Python.main8_only_funds_BUY_and_HOLD.executor": "Run",
+    "Python.main9_only_funds_MOM_6m.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "remote__ouuuuuuuuu",
+    "last_opened_file_path": "C:/Users/mateo/Code/ISXA/projet/Investment_Solutions_X_Assets_V5/main_core_sat.ipynb",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.main14_satellite_BUY_AND_HOLD">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Investment_Solutions_X_Assets" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main11_main7_plus_strat_facto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Investment_Solutions_X_Assets" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main11_main7_plus_strat_facto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main12_main7_freq_rebal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Investment_Solutions_X_Assets" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main12_main7_freq_rebal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main13_main12_plus_tc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Investment_Solutions_X_Assets" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main13_main12_plus_tc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main14_satellite_BUY_AND_HOLD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Investment_Solutions_X_Assets" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main14_satellite_BUY_AND_HOLD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main7_shortlist_ETFs_all_funds_BUY_and_HOLD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Investment_Solutions_X_Assets" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main7_shortlist_ETFs_all_funds_BUY_and_HOLD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main14_satellite_BUY_AND_HOLD" />
+        <item itemvalue="Python.main13_main12_plus_tc" />
+        <item itemvalue="Python.main12_main7_freq_rebal" />
+        <item itemvalue="Python.main7_shortlist_ETFs_all_funds_BUY_and_HOLD" />
+        <item itemvalue="Python.main11_main7_plus_strat_facto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4da00f6b-7e65-4b98-8ebc-7e732cf092b5" name="Changes" comment="" />
+      <created>1740835224110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740835224110</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first version of the backtester and results for the satellite portfolio mateo">
+      <option name="closed" value="true" />
+      <created>1740854952620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740854952620</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testing remote versioning">
+      <option name="closed" value="true" />
+      <created>1740855983465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740855983465</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testting remote versioning">
+      <option name="closed" value="true" />
+      <created>1740856091010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740856091010</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edits on branch">
+      <option name="closed" value="true" />
+      <created>1740856706711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740856706711</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edits on branch">
+      <option name="closed" value="true" />
+      <created>1740866181182</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740866181182</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edits on branch">
+      <option name="closed" value="true" />
+      <created>1740913783146</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740913783146</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added momentum sinal">
+      <option name="closed" value="true" />
+      <created>1741639848388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741639848388</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added carmignac">
+      <option name="closed" value="true" />
+      <created>1741644723541</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741644723541</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added all funds + tested several configs">
+      <option name="closed" value="true" />
+      <created>1742042717124</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742042717124</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added all funds + tested several configs">
+      <option name="closed" value="true" />
+      <created>1742422998227</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742422998227</updated>
+    </task>
+    <task id="LOCAL-00011" summary="rebal">
+      <option name="closed" value="true" />
+      <created>1742735186077</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742735186077</updated>
+    </task>
+    <task id="LOCAL-00012" summary="to complete naive risk parity">
+      <option name="closed" value="true" />
+      <created>1742749902966</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742749902966</updated>
+    </task>
+    <task id="LOCAL-00013" summary="naive risk parity">
+      <option name="closed" value="true" />
+      <created>1742753162050</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742753162050</updated>
+    </task>
+    <task id="LOCAL-00014" summary="naive risk parity + additional plots">
+      <option name="closed" value="true" />
+      <created>1742754477908</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742754477908</updated>
+    </task>
+    <task id="LOCAL-00015" summary="files">
+      <option name="closed" value="true" />
+      <created>1742858048334</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742858048334</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/remote_ouuuuuuuuu" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first version of the backtester and results for the satellite portfolio mateo" />
+    <MESSAGE value="testing remote versioning" />
+    <MESSAGE value="testting remote versioning" />
+    <MESSAGE value="edits on branch" />
+    <MESSAGE value="added momentum sinal" />
+    <MESSAGE value="added carmignac" />
+    <MESSAGE value="added all funds + tested several configs" />
+    <MESSAGE value="rebal" />
+    <MESSAGE value="to complete naive risk parity" />
+    <MESSAGE value="naive risk parity" />
+    <MESSAGE value="naive risk parity + additional plots" />
+    <MESSAGE value="files" />
+    <option name="LAST_COMMIT_MESSAGE" value="files" />
+  </component>
+</project>
